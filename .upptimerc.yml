@@ -3,14 +3,14 @@ owner: kphws # Your GitHub organization or username, where this repository lives
 repo: dheraldlang-service-status # The name of this repository
 
 sites:
-  - name: dheraldlang
+  - name: dheraldlang.com
     url: https://dheraldlang.com/
-  - name: DOGOnews
+  - name: dogonews.co.kr
     url: https://dogonews.co.kr/
-  - name: HERALDTEST
+  - name: herald.stest.co.kr
     url: https://herald.stest.co.kr/
-  - name: Mock Test
-    url: https://stest.co.kr/    
+  - name: stest.co.kr
+    url: https://stest.co.kr/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
