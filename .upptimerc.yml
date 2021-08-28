@@ -25,5 +25,9 @@ status-website:
     - title: 플립언어교육
       href: https://dheraldlang.com
 
+NOTIFICATION_SLACK: true
+NOTIFICATION_SLACK_WEBHOOK: true
+NOTIFICATION_SLACK_WEBHOOK_URL: https://dheraldlang.com/main/upptime_notification
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
