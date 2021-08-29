@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 609,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "time": 600,
+    "timeDay": 582,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 1187,
-    "timeWeek": 943,
-    "timeMonth": 943,
-    "timeYear": 943,
+    "time": 935,
+    "timeDay": 1222,
+    "timeWeek": 935,
+    "timeMonth": 935,
+    "timeYear": 935,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 647,
-    "timeDay": 672,
+    "timeDay": 674,
     "timeWeek": 647,
     "timeMonth": 647,
     "timeYear": 647,
@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/stest.co.kr",
     "slug": "stest-co-kr",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 817,
-    "timeDay": 893,
-    "timeWeek": 817,
-    "timeMonth": 817,
-    "timeYear": 817,
-    "dailyMinutesDown": {
-      "2021-08-28": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 798,
+    "timeDay": 898,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
+    "dailyMinutesDown": {}
   }
 ]
