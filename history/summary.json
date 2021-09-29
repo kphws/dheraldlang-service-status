@@ -22,9 +22,9 @@
     "url": "https://dogonews.co.kr/",
     "icon": "https://favicons.githubusercontent.com/dogonews.co.kr",
     "slug": "dogonews-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 841,
     "timeMonth": 857,
     "timeYear": 873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "herald.stest.co.kr",
