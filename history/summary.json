@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/dogonews.co.kr",
     "slug": "dogonews-co-kr",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.79%",
     "time": 897,
     "timeDay": 759,
     "timeWeek": 786,
@@ -45,9 +45,9 @@
     "url": "https://herald.stest.co.kr/",
     "icon": "https://favicons.githubusercontent.com/herald.stest.co.kr",
     "slug": "herald-stest-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +56,18 @@
     "timeWeek": 570,
     "timeMonth": 624,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-03": 0
+    }
   },
   {
     "name": "stest.co.kr",
     "url": "https://stest.co.kr/",
     "icon": "https://favicons.githubusercontent.com/stest.co.kr",
     "slug": "stest-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +76,8 @@
     "timeWeek": 481,
     "timeMonth": 603,
     "timeYear": 627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-03": 0
+    }
   }
 ]
